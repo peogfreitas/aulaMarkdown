@@ -16,3 +16,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Engenharia de requisitos
+
+- A engenharia de requisitos é basicamente uma tabela onde você organiza as etapas que deve fazer em diferentes casos, como fazer um jogo, um software, uma empresa entre outras.
+- Seus tipos são: Requisitos,
