@@ -20,4 +20,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # Engenharia de requisitos
 
 - A engenharia de requisitos é basicamente uma tabela onde você organiza as etapas que deve fazer em diferentes casos, como fazer um jogo, um software, uma empresa entre outras.
-- Seus tipos são: Requisitos,
+- Seus tipos são: "Requisitos Funcionais: São os requisitos que terão alguma funcionalidade." "Requisitos não Funcionais: São os requisitos que não teram alguma funcionalidade."
+
+<img scr="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png" width="50px">
+- 
